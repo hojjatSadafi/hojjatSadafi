@@ -5,7 +5,7 @@
 
 ## I'm hojjat Sadafi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien Monster" width="32" height="32" />
 <li> a junior <b>Front End</b> Web Developer who love learn <b>new</b> things <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Magnifying%20Glass%20Tilted%20Left.webp" alt="Magnifying Glass Tilted Left" width="25" height="25" /></li>
-<li> Front End Development is not my goal , my current goal is being <ins><b>mern full stack</b></ins> web Developer <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Laptop.webp" alt="Laptop" width="27" height="27" /></li>
+<li> Front End Development is not my goal , my current goal is being <ins><b>MERN full stack</b></ins> web Developer <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Laptop.webp" alt="Laptop" width="27" height="27" /></li>
 <li> If you want to tell me something, don't wait, just send me a message <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Incoming%20Envelope.webp" alt="Incoming Envelope" width="25" height="25" /></li>
 <br>
 
