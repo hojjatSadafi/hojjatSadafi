@@ -21,6 +21,6 @@
 
 ## Contact Me <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Mobile%20Phone%20With%20Arrow.webp" alt="Mobile Phone With Arrow" width="25" height="25" />
 
-I don't have an **Instagram** or **Twitter** account because I focused on my work, but you can contact me via [email](https://sobisare@gmail.com) or telegram.
+I don't have an **Instagram** or **Twitter** account because I focused on my work, but you can contact me via [email](mailto:sobisare@gmail.com) or [telegram](https://t.me/mr_gorsk).
 
 <!-- <img src="https://media.licdn.com/dms/image/D4D12AQEZtPCuttD_iQ/article-cover_image-shrink_600_2000/0/1697453573297?e=2147483647&v=beta&t=HkN6gZbpfAZ0k5Xb88iQXfQpbeKR-YHIKCvzI0gbIhM"> -->
