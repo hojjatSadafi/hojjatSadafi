@@ -23,4 +23,5 @@
 
 I don't have an **Instagram** or **Twitter** account because I focused on my work, but you can contact me via [email](mailto:sobisare@gmail.com) or [telegram](https://t.me/mr_gorsk).
 
+[](https://img.icons8.com/?size=100&id=MIMjVKoXINIT&format=png&color=000000)
 <!-- <img src="https://media.licdn.com/dms/image/D4D12AQEZtPCuttD_iQ/article-cover_image-shrink_600_2000/0/1697453573297?e=2147483647&v=beta&t=HkN6gZbpfAZ0k5Xb88iQXfQpbeKR-YHIKCvzI0gbIhM"> -->
