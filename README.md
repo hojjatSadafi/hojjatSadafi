@@ -22,6 +22,21 @@
 ## Contact Me <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Mobile%20Phone%20With%20Arrow.webp" alt="Mobile Phone With Arrow" width="25" height="25" />
 
 I don't have an **Instagram** or **Twitter** account because I focused on my work, but you can contact me via [email](mailto:sobisare@gmail.com) or [telegram](https://t.me/mr_gorsk).
+<br>
+<p align="center">
+<a href="https://t.me/mr_gorsk"><img src="https://img.icons8.com/?size=100&id=MIMjVKoXINIT&format=png&color=000000" height="60px"></a>
+<a href="mailto:sobisare@gmail.com"><img src="https://img.icons8.com/?size=100&id=tnnUFgHrPmR0&format=png&color=000000" height="60px"></a>
+</p>
+<br>
 
-[](https://img.icons8.com/?size=100&id=MIMjVKoXINIT&format=png&color=000000)
+_______
+
+<br>
+
+### <p align="center" style="font-size:30px"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Symbols/Heart%20On%20Fire.webp" width="32" height="32" /> Thanks For Reading <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Symbols/Heart%20On%20Fire.webp" width="32" height="32" /></p>
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="595" height="334">
+</p>
+
 <!-- <img src="https://media.licdn.com/dms/image/D4D12AQEZtPCuttD_iQ/article-cover_image-shrink_600_2000/0/1697453573297?e=2147483647&v=beta&t=HkN6gZbpfAZ0k5Xb88iQXfQpbeKR-YHIKCvzI0gbIhM"> -->
